@@ -120,7 +120,7 @@ export function Hero() {
                      <ShieldCheck size={18} />
                   </div>
                   <div className="text-3xl font-sans font-bold text-white mb-1">100+</div>
-                  <div className="text-[10px] uppercase tracking-widest text-slate-500">MSP Partners</div>
+                  <div className="text-[10px] uppercase tracking-widest text-[#00E5FF]">MSP Partners</div>
                </div>
                
                <div className="flex flex-col items-center sm:items-start text-center sm:text-left mb-6 sm:mb-0">
@@ -128,7 +128,7 @@ export function Hero() {
                      <Zap size={18} />
                   </div>
                   <div className="text-3xl font-sans font-bold text-white mb-1">24/7</div>
-                  <div className="text-[10px] uppercase tracking-widest text-slate-500">Operations</div>
+                  <div className="text-[10px] uppercase tracking-widest text-[#00E5FF]">Operations</div>
                </div>
 
             </div>
